@@ -1,3 +1,5 @@
+// This is a added comment to test for Git changes
+
 package com.uday.entity;
 
 import javax.persistence.Entity;
