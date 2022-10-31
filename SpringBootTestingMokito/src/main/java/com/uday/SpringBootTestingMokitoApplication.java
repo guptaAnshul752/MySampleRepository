@@ -1,5 +1,7 @@
 package com.uday;
 
+// This is a sample comment added - 1
+
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
